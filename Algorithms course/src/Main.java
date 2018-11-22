@@ -19,8 +19,6 @@ class Main {
             }
         }
 
-
-
         StrassenMultiplication mult = new StrassenMultiplication();
 
         int[][] result = mult.multMatrixRec(x, y, size);
